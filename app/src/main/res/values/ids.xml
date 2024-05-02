@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="max_temp" type="id" />
+    <item name="date" type="id"/>
+    <item name="maximumtemp" type="id"/>
+    <item name="minimumtemp" type="id"/>
+</resources>
